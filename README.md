@@ -6,3 +6,5 @@ test git project hello-world
  - ขั้น 3
  
  '''pythom
+print("hello-world")
+'''python
