@@ -8,3 +8,4 @@ test git project hello-world
 pythom
 print("hello-world")
 '''python
+![image tah](https://upload.wikimedia.org/wikipedia/en/6/61/ChuckyDoll.jpg)
